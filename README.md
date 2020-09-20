@@ -1,8 +1,8 @@
 # COVID-19 Data Visualization AI Hackathon
 
-Key Questions:
+Key questions I want to ask and solve:
 
-1. where are the most dangerous regions of Seoul (places that infected people visited
+1. Where are the most dangerous regions of Seoul (places that infected people visited
 
 2. Can we conclude that the 20s are the safest group from COVID-19?
 
