@@ -1,6 +1,6 @@
 # COVID-19 Data Visualization AI Hackathon
 
-## Table of Contents
+### Table of Contents
 
 Key questions I want to ask and solve:
 
