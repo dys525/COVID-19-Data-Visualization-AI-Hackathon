@@ -2,6 +2,17 @@
 
 ### Table of Contents
 
+1. [Installation](readme.md)
+2. [Contents](readme.md)
+3. [Files](readme.md)
+4. [Acknowledgements](readme.md)
+
+## Installation
+
+I used Anaconda(Python 3.7.6) with the following libraries installed: geopandas, geoplot, fiona, gdal, pyproj, shapely, etc.) Can be downloaded and installed manually or simply use the following command: conda install <code>-c conda-forge geoplot geopandas shapely</code>
+
+## Contents
+
 Key questions I want to ask and solve:
 
 1. Where are the most dangerous regions of Seoul (places that infected people visited
