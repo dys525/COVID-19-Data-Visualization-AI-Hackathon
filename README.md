@@ -13,7 +13,7 @@ I used Anaconda(Python 3.7.6) with the following libraries installed: geopandas,
 
 ## Contents
 
-Key questions I want to ask and solve:
+Key questions I want to ask, solve and evaluate:
 
 1. Where are the most dangerous regions of Seoul (places that infected people visited
 
