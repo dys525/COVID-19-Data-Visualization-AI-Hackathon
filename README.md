@@ -1,5 +1,7 @@
 # COVID-19 Data Visualization AI Hackathon
 
+# Table of Contents
+
 Key questions I want to ask and solve:
 
 1. Where are the most dangerous regions of Seoul (places that infected people visited
