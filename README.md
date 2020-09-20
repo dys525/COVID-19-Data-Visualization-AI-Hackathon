@@ -21,3 +21,8 @@ Key questions I want to ask, solve and evaluate:
 
 3. Are the conditions significantly different between the capital area (Seoul, Incheon, Gyeonggi Province) and the rest(non-capital area)?
 
+
+## Files
+
+
+## Acknowledgements
