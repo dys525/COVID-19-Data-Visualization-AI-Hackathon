@@ -2,10 +2,13 @@
 
 ### Table of Contents
 
+1. [Description](readme.md)
 1. [Installation](readme.md)
 2. [Contents](readme.md)
 3. [Files](readme.md)
 4. [Acknowledgements](readme.md)
+
+## Description
 
 ## Installation
 
