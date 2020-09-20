@@ -1,1 +1,1 @@
-# COVID-19-Safe-Travel-Guidelines-for-Elderly
+# COVID-19-Data Visualization AI Hackathon
